@@ -1,6 +1,8 @@
-# my-project
+# Converting to Boot
 
-An example Clojure project that demonstrates how to migrate to the Boot build tool
+An example Clojure project that demonstrates how to migrate to the Boot build tool.
+
+See the blog [post](http://blog.juxt.pro/posts/boot-parity.html) for more discussion.
 
 ## Usage
 
